@@ -3,7 +3,7 @@
 ## Onderzoeksrapport
 Een onderzoek over de relatie tussen metadata en nepnieuws
 
-[Onderzoeksrapport](https://docs.google.com/document/d/1p_0LL0oiC-zCGx--G1a6unonNnChmGRcjt1PUfZCMbg/edit#)
+[Onderzoeksrapport](https://github.com/Mysurii/twitter-fake-news-detection/blob/master/Fake%20News.pdf)
 
 ## Project local werkend krijgen
 
